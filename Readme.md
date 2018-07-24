@@ -1,5 +1,5 @@
 # 简介
-**读取Excel表单并转换为json格式**
+**读取`Excel`表单并转换为`json`格式**
 # 依赖及说明
 1. `node.js`
 2. `xlsx` 
